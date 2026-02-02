@@ -1,2 +1,2 @@
-# ecommerce-notes
+# Ecommerce Notes
 Personal notes about ecommerce platforms, online stores, and tools tested in real-world projects.
